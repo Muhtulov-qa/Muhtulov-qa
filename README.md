@@ -75,13 +75,13 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
+[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/Muhtulov-qa/Muhtulov-qa/refs/heads/main/evgenij_muhtulov-peers__miniapp.png)
 
 
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en.png)
+[<img src="/diploma_en.png" width="280px" hspace="10px" alt="Сертификат о прохождении базового курса">](https://raw.githubusercontent.com/Muhtulov-qa/Muhtulov-qa/refs/heads/main/evgenij_muhtulov_certificate_139_hours_ru.jpg)
 
 
 <br>
